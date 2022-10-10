@@ -1,6 +1,6 @@
 # :alien: Hello, World! 
 
-I'm **Lean Elizebette Mijares**, and I'm currently pursuing a BS in Information Technology at the **Technological University of the Philippines**. <br>
+I'm **Lean Elizebette Mijares**, and I'm currently pursuing a BS in Information Technology at the **Technological University of the Philippines**. <br><br>
 My primary objective is to become a Web-Developer while also expanding my knowledge of various frameworks and gaining additional expertise in the field of technology.
 
 ## You can reach me at
